@@ -1,6 +1,7 @@
 # Exploratory Data Analysis & Feature Engineering on Travel Dataset
 
-![Project Logo](https://github.com/01-vivek-kumar/SQL-Project-Maven-Movies/blob/main/SQL%20Data%20Analysis%20Project%20%20Maven%20Movies.png)
+![Project Logo](https://github.com/01-vivek-kumar/travel-eda-project1/blob/main/logo.png)
+
 ## 📌 Project Overview  
 This project focuses on performing **Exploratory Data Analysis (EDA)** and **Feature Engineering** on the **Travel** dataset.  
 The goal is to **understand the data, identify patterns, handle missing values, detect outliers, and create meaningful features** to enhance predictive modeling.  

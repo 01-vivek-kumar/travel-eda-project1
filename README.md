@@ -66,18 +66,11 @@ The dataset was loaded using **pandas**, and basic exploratory commands were use
 ```python
 import pandas as pd  
 df = pd.read_csv("Travel.csv")  
-df.shape  # Check dataset dimensions  
-df.head()  # View first five rows  
-df.info()  # Check data types and missing values  
-df.dtypes  # Identify column data types  
-df.columns  # List all column names  
-
-
-Observations:
-
-The dataset contains 4888 rows and 10+ columns.
-Some categorical features have inconsistent values (e.g., "Fe Male" instead of "Female").
-Missing values exist in some columns, requiring handling.
+df.shape   
+df.head() 
+df.info()  
+df.dtypes   
+df.columns  
 
 ```
 ### 🔹 2. Handling Missing Values

@@ -159,32 +159,59 @@ for cat_column in cats:
 By plotting all categorical columns at once, I was able to get a comprehensive view of data distribution, making it easier to spot patterns and irregularities.
 
 ![download](https://github.com/user-attachments/assets/b390d65d-2dab-4543-ae10-6cdd06e60c61)
-The CityTier distribution shows that most customers belong to Tier 1 cities, followed by Tier 3, while Tier 2 cities have the least representation. This suggests that the business is primarily targeting or attracting customers from highly developed urban areas.
+
+The ProdTaken countplot shows that the majority of customers (0) did not purchase the product, with only a smaller proportion (1) making a purchase. This indicates a low conversion rate, suggesting potential issues in marketing, pricing, or customer interest.
 
 ![download](https://github.com/user-attachments/assets/d9d5f37b-b43e-4aba-9e6a-c52ebecf6c0e)
-Most customers prefer 3-star properties, while 4-star and 5-star properties have a significantly lower but nearly equal preference. This suggests that affordability and mid-range accommodations are more popular among the target audience.
+
+The **CityTier** distribution shows that most customers belong to **Tier 1 cities**, followed by **Tier 3**, while **Tier 2 cities** have the least representation. This suggests that the business is primarily targeting or attracting customers from **highly developed urban areas**.
 
 ![download](https://github.com/user-attachments/assets/2935d9bb-a3c0-4f7a-85a1-11965aa42156)
-A majority of customers do not have a passport, which may indicate a stronger focus on domestic travel rather than international travel.
+
+
+Most customers prefer 3-star properties, while 4-star and 5-star properties have a significantly lower but nearly equal preference. This suggests that affordability and mid-range accommodations are more popular among the target audience.
+
 
 ![download](https://github.com/user-attachments/assets/1dbb551e-d06c-4519-ae9e-0c0c256f2011)
-A larger proportion of customers own a car, which could indicate a preference for road trips or self-driven travel rather than relying on public transportation or flights.
+
+A majority of customers do not have a passport, which may indicate a stronger focus on domestic travel rather than international travel.
 
 ![download](https://github.com/user-attachments/assets/09ab5ecb-6106-4eaa-943f-c5841591e551)
 
-The most common Pitch Satisfaction Score is 3, indicating that a majority of customers have a neutral opinion about their experience. However, there is also a significant proportion of customers who rated it as 1 or 5, suggesting a mix of highly dissatisfied and highly satisfied customers.
+
+A larger proportion of customers own a car, which could indicate a preference for road trips or self-driven travel rather than relying on public transportation or flights.
 
 ![download](https://github.com/user-attachments/assets/be83f108-c2d2-43fa-b327-e5245aadaf40)
-The majority of contacts are from Self Enquiry, meaning most customers are reaching out on their own rather than being invited by the company. This could indicate a strong interest from customers but might also mean that proactive outreach by the company is limited.
+
+
+The most common Pitch Satisfaction Score is 3, indicating that a majority of customers have a neutral opinion about their experience. However, there is also a significant proportion of customers who rated it as 1 or 5, suggesting a mix of highly dissatisfied and highly satisfied customers.
+
 
 ![download](https://github.com/user-attachments/assets/aebd3f6e-ab10-4d0d-a191-84225313a657)
-The majority of customers are salaried employees and small business owners, while freelancers and large business owners are significantly fewer. This suggests that the product/service is more appealing to working professionals and small entrepreneurs rather than large businesses or independent freelancers.
+
+
+The majority of contacts are from Self Enquiry, meaning most customers are reaching out on their own rather than being invited by the company. This could indicate a strong interest from customers but might also mean that proactive outreach by the company is limited.
 
 ![download](https://github.com/user-attachments/assets/cc261b08-3f99-426d-9ca9-cc3247d5bcdc)
+
+
+The majority of customers are salaried employees and small business owners, while freelancers and large business owners are significantly fewer. This suggests that the product/service is more appealing to working professionals and small entrepreneurs rather than large businesses or independent freelancers.
+
 ![download](https://github.com/user-attachments/assets/9ffe89aa-ae2d-4cea-86b2-3c5b54ebbefe)
+
+More male customers than female.
+
 ![download](https://github.com/user-attachments/assets/000ad5dd-d483-49fc-8e96-fe3650b569f7)
+
+Basic & Deluxe are most pitched, while Super Deluxe & King are least.
+
 ![download](https://github.com/user-attachments/assets/864ce09f-69ba-4470-883e-c448cc0c2eb7)
+
+Married customers dominate; Singles & Unmarried may be untapped.
+
 ![download](https://github.com/user-attachments/assets/2ba03577-580a-40c6-b917-19f66b52ae9b)
+
+ Mostly Executives & Managers; AVP & VP are rare
 
  
 
